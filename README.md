@@ -26,7 +26,7 @@ other overlays as well. 🎮
 
 ## How to Build
 
-NVSE source code is not provided as per the license agreement, so to build this
+FOSE source code is not provided as per the license agreement, so to build this
 plugin you'll need to grab it [here](http://www.fose.silverlock.org/) (download
 the latest version).
 
